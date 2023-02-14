@@ -16,53 +16,53 @@ Have fun!
 
 First object
 
-[![Circle](Examples/Small/Circle_diamond_01a_circle.jpg)](Examples/Large/Circle_diamond_01a_circle.jpg)
+[![Circle](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Circle_diamond_01a_circle.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Circle_diamond_01a_circle.jpg)
 
 Second object
 
-[![Diamond](Examples/Small/Circle_diamond_01b_diamond.jpg)](Examples/Large/Circle_diamond_01b_diamond.jpg)
+[![Diamond](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Circle_diamond_01b_diamond.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Circle_diamond_01b_diamond.jpg)
 
 The ambiguous object
 
-[![Double arrow](Examples/Small/Circle_diamond_02_final.jpg)](Examples/Large/Circle_diamond_02_final.jpg)
+[![Double arrow](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Circle_diamond_02_final.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Circle_diamond_02_final.jpg)
 
 View from camera 1
 
-[![Camera 1](Examples/Small/Circle_diamond_03_camera1.jpg)](Examples/Large/Circle_diamond_03_camera1.jpg)
+[![Camera 1](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Circle_diamond_03_camera1.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Circle_diamond_03_camera1.jpg)
 
 View from camera 2
 
-[![Camera 1](Examples/Small/Circle_diamond_04_camera2.jpg)](Examples/Large/Circle_diamond_04_camera2.jpg)
+[![Camera 1](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Circle_diamond_04_camera2.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Circle_diamond_04_camera2.jpg)
 
 Papertoy
 
-[![Papertoy photo](Examples/Small/Circle_diamond_05_Photo.jpg)](Examples/Large/Circle_diamond_05_Photo.jpg)
+[![Papertoy photo](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Circle_diamond_05_Photo.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Circle_diamond_05_Photo.jpg)
 
 ### Left/right Arrow
 
 First object
 
-[![First arrow](Examples/Small/Arrows_01a_LeftArrow.jpg)](Examples/Large/Arrows_01a_LeftArrow.jpg)
+[![First arrow](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Arrows_01a_LeftArrow.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Arrows_01a_LeftArrow.jpg)
 
 Second object
 
-[![Second arrow](Examples/Small/Arrows_01b_RightArrow.jpg)](Examples/Large/Arrows_01b_RightArrow.jpg)
+[![Second arrow](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Arrows_01b_RightArrow.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Arrows_01b_RightArrow.jpg)
 
 The ambiguous object
 
-[![Double arrow](Examples/Small/Arrows_02_final.jpg)](Examples/Large/Arrows_02_final.jpg)
+[![Double arrow](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Arrows_02_final.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Arrows_02_final.jpg)
 
 View from camera 1
 
-[![Camera 1](Examples/Small/Arrows_03_camera1.jpg)](Examples/Large/Arrows_03_camera1.jpg)
+[![Camera 1](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Arrows_03_camera1.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Arrows_03_camera1.jpg)
 
 View from camera 2 (axis are reversed!)
 
-[![Camera 1](Examples/Small/Arrows_04_camera2.jpg)](Examples/Large/Arrows_04_camera2.jpg)
+[![Camera 1](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Arrows_04_camera2.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Arrows_04_camera2.jpg)
 
 Papertoy
 
-[![Papertoy photo](Examples/Small/Arrows_05_Photo.jpg)](Examples/Large/Arrows_05_Photo.jpg)
+[![Papertoy photo](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Small/Arrows_05_Photo.jpg)](https://github.com/ambrth71/Ambiguous-Object-Creator/raw/main/Examples/Large/Arrows_05_Photo.jpg)
 
 ## Installation
 
